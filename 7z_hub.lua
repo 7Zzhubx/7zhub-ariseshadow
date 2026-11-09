@@ -6,7 +6,7 @@
        ██║  ███████╗    ██║  ██║╚██████╔╝██████╔╝
        ╚═╝  ╚══════╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
     =============================================
-    7Z HUB | Solo Leveling: Arise
+    7Z HUB | Arise
     Protected by 7Z Polymorphic Virtualizer v2.4
     Status: Production Build (Encrypted)
     =============================================
